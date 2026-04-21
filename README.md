@@ -35,20 +35,6 @@
 
 #
 
-<h3>Структура проекта</h3>
-
-```
-telegram-form-automation/
-├── README.md
-├── docs/
-│   ├── business-requirements.md
-│   ├── user-flow.md
-│   └── data-structure.md
-├── screenshots/
-└── diagrams/
-    └── workflow.md
-```
-
 <h3>Схема процесса</h3>
 
 Анализ процесса взаимодействия систем
@@ -88,3 +74,18 @@ telegram-form-automation/
 
 "Workflow" (diagrams/workflow.png)
 
+#
+
+<h3>Структура проекта</h3>
+
+```
+telegram-form-automation/
+├── README.md
+├── docs/
+│   ├── business-requirements.md
+│   ├── user-flow.md
+│   └── data-structure.md
+├── screenshots/
+└── diagrams/
+    └── workflow.md
+```
