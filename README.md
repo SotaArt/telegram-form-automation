@@ -80,31 +80,17 @@
 
 Форма ввода данных сотрудником:
 
-"Telegram Form" (screenshots/telegram-form.png)
+<p align="center">
+  <img src="screenshots/Form-01.jpg" width="30%">
+  <img src="screenshots/Form-02.jpg" width="30%">
+  <img src="screenshots/Form-03.jpg" width="30%">
+</p>Dashboard
 
 **Хранение данных в Google Sheets**
 
-Автоматическая запись данных и обновление dashboard:
+Результат автоматической записи данных и обновления показателей:
 
-"Google Sheets" (screenshots/dashboard.png)
-
----
-
-Интерфейс Telegram Mini App
-
-Пошаговый сценарий заполнения формы пользователем.
-
-<p align="center">
-  <img src="screenshots/form-step-1.png" width="30%">
-  <img src="screenshots/form-step-2.png" width="30%">
-  <img src="screenshots/form-step-3.png" width="30%">
-</p>Dashboard
-
-Результат автоматической записи данных и обновления показателей.
-
-"Dashboard" (screenshots/dashboard.png)
-
-
+![Google Sheets](screenshots/Cont.jpg)
 
 ---
 
