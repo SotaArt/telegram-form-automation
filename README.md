@@ -84,7 +84,7 @@
   <img src="screenshots/Form-01.jpg" width="30%">
   <img src="screenshots/Form-02.jpg" width="30%">
   <img src="screenshots/Form-03.jpg" width="30%">
-</p>Dashboard
+</p>
 
 **Хранение данных в Google Sheets**
 
