@@ -76,6 +76,18 @@
 
 ![Workflow](diagrams/workflow.png)
 
+**Интерфейс Telegram Mini App**
+
+Форма ввода данных сотрудником:
+
+"Telegram Form" (screenshots/telegram-form.png)
+
+**Хранение данных в Google Sheets**
+
+Автоматическая запись данных и обновление dashboard:
+
+"Google Sheets" (screenshots/dashboard.png)
+
 ---
 
 **Моя роль в проекте**
