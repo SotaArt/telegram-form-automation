@@ -90,6 +90,24 @@
 
 ---
 
+Интерфейс Telegram Mini App
+
+Пошаговый сценарий заполнения формы пользователем.
+
+<p align="center">
+  <img src="screenshots/form-step-1.png" width="30%">
+  <img src="screenshots/form-step-2.png" width="30%">
+  <img src="screenshots/form-step-3.png" width="30%">
+</p>Dashboard
+
+Результат автоматической записи данных и обновления показателей.
+
+"Dashboard" (screenshots/dashboard.png)
+
+
+
+---
+
 **Моя роль в проекте**
 
 В рамках проекта выполнял функции системного анализа и проектирования решения:
