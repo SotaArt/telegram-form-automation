@@ -72,7 +72,7 @@
 - повысить прозрачность процессов
 - уменьшить операционную нагрузку
 
-"Workflow" (diagrams/workflow.png)
+![Workflow](diagrams/workflow.png)
 
 #
 
