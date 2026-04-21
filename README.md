@@ -109,7 +109,7 @@
 
 **Структура проекта**
 
-telegram-form-automation/
+```telegram-form-automation/
 ├── README.md
 ├── docs/
 │   ├── business-requirements.md
@@ -117,4 +117,4 @@ telegram-form-automation/
 │   └── data-structure.md
 ├── screenshots/
 └── diagrams/
-    └── workflow.png
+    └── workflow.png```
